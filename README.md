@@ -34,6 +34,7 @@ This repository contains my handwritten notes and verified badge for completing 
 > My handwritten notes are available in the `/notes/` folder.  
 > These were made while taking the course and summarize key concepts from each module.
 
-📄 [Click here to view my notes (PDF)](https://github.com/yourusername/yourrepo/blob/main/notes/yourfile.pdf)
+📄 [Click here to view my notes (PDF)](https://github.com/namitrajeev/ibm-data-analytics-notes/blob/main/notes/notes.pdf)
+
 
 
